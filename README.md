@@ -18,5 +18,7 @@ This is a simple text editor application that allows you to write text, save it 
 1. **Writing Text**: Type your text in the text area.
 2. **Saving Text**: Press the "Save" button to store the current text in Local Storage.
 3. **Loading Text**: Press the "Load" button to fetch the saved text from Local Storage and display it in the text area.
+   
+![Zrzut ekranu 2024-10-13 o 18 12 22](https://github.com/user-attachments/assets/1550904c-2c56-4d2a-8ce8-899cf4220102)
 
 
