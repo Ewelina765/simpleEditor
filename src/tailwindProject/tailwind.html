@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./index.css" type="text/css" rel="stylesheet" />
+    <title>Prosty edytor</title>
+    <meta name="description" content="Taki tam edytor" />
+    <meta property="og:title" content="Prosty edytor" />
+    <meta proprty="og:type" content="website" />
+    <meta proprty="og:url" content="urlmojejstrony" />
+  </head>
+  <body class="bg-gray-400 text-white flex min-h-screen justify-center items-center">
+    <main class="w-full p-4 max-w-xl">
+      <h1 class="text-3xl font-bold mb-4">
+        Prosty edytor<span class="inline-block animate-bounce">💾</span>
+      </h1>
+      <textarea
+        class="textarea--js w-full h-64 mb-4 text-black p-3 rounded-lg"
+      ></textarea>
+      <div class="flex justify-end gap-5">
+        <button class="load--js bg-blue-800 px-3 py-1.5 rounded-lg">
+          Wczytaj
+        </button>
+        <button class="save--js bg-green-800 px-3 py-1.5 rounded-lg">
+          Zapisz
+        </button>
+      </div>
+    </main>
+    <script src="./tailwind.js" type="module"></script>
+  </body>
+</html>

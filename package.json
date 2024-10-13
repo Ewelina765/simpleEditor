@@ -1,7 +1,7 @@
 {
   "name": "homepage",
   "version": "1.0.0",
-  "source": "src/hydrapp/hydrapp.html",
+  "source": "src/tailwindProject/tailwind.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel",
