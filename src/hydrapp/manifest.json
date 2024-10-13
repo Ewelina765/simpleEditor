@@ -1,9 +1,0 @@
-{
-  "name": "hydrapp",
-  "short_name": "hydrapp",
-  "background_color": "#fcfcfc",
-  "display": "standalone",
-  "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/"
-}
